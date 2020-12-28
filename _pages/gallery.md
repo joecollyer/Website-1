@@ -2,7 +2,7 @@
 permalink: /gallery/
 title: "Gallery"
 excerpt: "Images"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /pictures/
   - /gallery.html
