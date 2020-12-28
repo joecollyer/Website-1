@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mailto:owen@owenboffey.com"
+  email            : "owen@owenboffey.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/OwenBof"
+  github           : "OwenBof"
   google_plus      :
   keybase          :
-  instagram        : "https://instagram.com/Owen.Bof"
+  instagram        : "Owen.Bof"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Owen87988182"
+  twitter          : "Owen87988182"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCJFYrHLc5duDwLQ-UTOqMWA"
+  youtube          : "UCJFYrHLc5duDwLQ-UTOqMWA"
   wikipedia        :
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
