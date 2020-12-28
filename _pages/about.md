@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Owen Boffey | Welcome"
+title: "Welcome to owenboffey.com!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to owenboffey.com!
 This site is still in development - you may notice errors and minor edits.
