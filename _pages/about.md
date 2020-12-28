@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This site is still in development - you may notice errors and minor edits.
+Welcome to the new and improved Owen Boffey website!
